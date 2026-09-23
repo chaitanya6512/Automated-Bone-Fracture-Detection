@@ -1,0 +1,22 @@
+tensorflow-cpu==2.10.0
+pydicom
+
+
+numpy==1.26.4
+pandas==2.2.3
+matplotlib==3.10.0
+scikit-learn==1.6.1
+seaborn==0.13.2
+pillow==11.2.1
+opencv-python==4.11.0.86
+
+reportlab==4.0.8
+
+#desktop dependencies
+customtkinter==5.2.2
+colorama==0.4.6
+tensorflow-directml-plugin
+
+#web dependencies
+streamlit==1.18.1
+altair==4.2.2
