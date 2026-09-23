@@ -213,15 +213,15 @@ python desktop/mainGUI.py
 
 ## 🎓 Academic Context
 
-This project was developed as part of an **MCA Specialization in Data Science, Artificial Intelligence, and Machine Learning**. It illustrates practical applications of **Deep Learning**, **Computer Vision**, and **Explainable AI (XAI)** in medical imaging diagnostics.
+This project was developed as part of an **CSE Specialization in Artificial Intelligence, and Machine Learning**. It illustrates practical applications of **Deep Learning**, **Computer Vision**, and **Explainable AI (XAI)** in medical imaging diagnostics.
 
 ---
 
 ## 👨‍💻 Author
 
-**Nimil P Gopal**  
-- 🐙 **GitHub:** [github.com/NimilPGopal](https://github.com/NimilPGopal)  
-- 💼 **LinkedIn:** [linkedin.com/in/nimilpgopal/](https://www.linkedin.com/in/nimilpgopal/)
+**Chaitanya Yaragalla**  
+- 🐙 **GitHub:** [github.com/chaitanya6512](https://github.com/chaitanya6512)  
+- 💼 **LinkedIn:** [linkedin.com/in/chaitanya-yaragalla-7baa21243/](https://www.linkedin.com/in/chaitanya-yaragalla-7baa21243/)
 
 ---
 
