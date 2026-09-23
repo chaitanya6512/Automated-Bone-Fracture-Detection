@@ -140,7 +140,7 @@ This project is trained and validated on the **MURA (Musculoskeletal Radiographs
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Bone-Fracture-Detection-Using-MURA-Dataset.git
+git clone https://github.com/chaitanya6512/Bone-Fracture-Detection
 cd Automated-Bone-Fracture-Detection
 ```
 
