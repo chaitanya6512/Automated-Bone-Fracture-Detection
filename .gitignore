@@ -1,0 +1,39 @@
+# Dataset
+Dataset/
+assets/
+# Evaluation outputs
+plots/Evaluation/errors/
+uploads/
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Outputs
+outputs/
+
+# Generated GradCAM
+gradcam/
+plots/GradCAM/
+uploads/GradCAM/
+core/plots/
+
+# Reports
+reports/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
